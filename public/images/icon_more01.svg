@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1021.5 4328.5 105 105">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2f363f;
+        stroke: #fd7044;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        fill: #c3d3e9;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Messages_icon" data-name="Messages icon" transform="translate(1024 4331)">
+    <circle id="green_circle" data-name="green circle" class="cls-1" cx="50" cy="50" r="50"/>
+    <path id="bubble" class="cls-2" d="M17.838,46.919c0-13.434,13.613-24.324,30.405-24.324s30.405,10.89,30.405,24.324S65.036,71.243,48.243,71.243a37.635,37.635,0,0,1-7.984-.847l-.09.142c-1.859,2.944-12.688,6.3-12.688,6.3-1.405.479-1.819-.1-.908-1.268,0,0,4.161-5.108,4.161-6.724,0-1.583-.211-1.843-.906-2.57C22.54,61.832,17.838,54.815,17.838,46.919Z" transform="translate(1.461 1.967)"/>
+  </g>
+</svg>

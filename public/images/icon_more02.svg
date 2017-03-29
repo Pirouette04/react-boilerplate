@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1181.5 4328.5 105 105">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2f363f;
+        stroke: #fd7044;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        fill: #c3d3e9;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Restaurants_icon" data-name="Restaurants icon" transform="translate(980 3985)">
+    <circle id="ellipse" class="cls-1" cx="50" cy="50" r="50" transform="translate(204 346)"/>
+    <g id="AMEDEA_MD_fr_black" transform="translate(207.4 336.7)">
+      <path id="Path_152" data-name="Path 152" class="cls-2" d="M41.706,48.273H27.2L33.97,32.8H47.509l6,15.473h-11.8Z" transform="translate(6.632)"/>
+      <path id="Path_153" data-name="Path 153" class="cls-2" d="M35.4,42.6H47.2L58.223,70.645H46.038Z" transform="translate(14.292 9.155)"/>
+      <path id="Path_154" data-name="Path 154" class="cls-2" d="M32.285,70.645H20.1L32.285,42.6h11.8Z" transform="translate(0 9.155)"/>
+    </g>
+  </g>
+</svg>
